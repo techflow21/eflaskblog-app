@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def home_view():
-    return "<h1>WElcomw to Deploy Test</h1>"
+    return "<h1>Welcome to Deploy Test</h1>"
